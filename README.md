@@ -8,6 +8,3 @@ Face Detection and Face Emotion Detection models
 - Create emotion detection
 - Create spotify scraper
 - integrate with it
-
-- will be done
-- 

@@ -1,12 +1,17 @@
-# detection_models
-Face Detection and Face Emotion Detection models
-- [ ] https://www.youtube.com/watch?v=avv9GQ3b6Qg
-- [ ] https://www.youtube.com/watch?v=N_W4EYtsa10
-- [ ] https://www.youtube.com/watch?v=oNyaiWgqKDI
-- [ ] https://www.youtube.com/watch?v=-bue7fT7sO8&list=PLINDPtcaHmLajxp3dUzBhgcYu5AZOM3t_
+# ntcc
+Face Detection and Face Emotion Detection models + music analytics app
 
+Realtime Face Emotion Recognition | Tensorflow | Transfer Learning | Python | Train your own Images
+- [ ] https://www.youtube.com/watch?v=avv9GQ3b6Qg<br><br>
+Build a Deep Face Detection Model with Python and Tensorflow | Full Course
+- [ ] https://www.youtube.com/watch?v=N_W4EYtsa10<br><br>
+Develop music analytics app with Spotify API in Python
+- [x] https://www.youtube.com/watch?v=oNyaiWgqKDI<br><br>
+Music analytics app in python with Streamlit and Spotify
+- [ ] https://www.youtube.com/watch?v=-bue7fT7sO8&list=PLINDPtcaHmLajxp3dUzBhgcYu5AZOM3t_
+________
 - Create emotion detection
-- Create spotify scraper
+- [x] Create spotify scraper
 - integrate with it
-- music analytics app to be made
-- 
+- Music analytics app to be made
+  

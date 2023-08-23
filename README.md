@@ -1,17 +1,50 @@
-# ntcc
-Face Detection and Face Emotion Detection models + music analytics app
+# Facial Emotion Detection Models Repository
 
-Realtime Face Emotion Recognition | Tensorflow | Transfer Learning | Python | Train your own Images
-- [ ] https://www.youtube.com/watch?v=avv9GQ3b6Qg<br><br>
-Build a Deep Face Detection Model with Python and Tensorflow | Full Course
-- [ ] https://www.youtube.com/watch?v=N_W4EYtsa10<br><br>
-Develop music analytics app with Spotify API in Python
-- [x] https://www.youtube.com/watch?v=oNyaiWgqKDI<br><br>
-Music analytics app in python with Streamlit and Spotify
-- [ ] https://www.youtube.com/watch?v=-bue7fT7sO8&list=PLINDPtcaHmLajxp3dUzBhgcYu5AZOM3t_
-________
-- Create emotion detection
-- [x] Create spotify scraper
-- integrate with it
-- Music analytics app to be made
-  
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1319157818303379-gr1.jpg">
+
+Welcome to the Facial Emotion Detection Models repository! Here, we have developed multiple models for detecting facial emotions. These models are designed to identify emotions in human faces using various techniques, including user databases and the FER2013 dataset.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Models](#models)
+- [Dataset](#dataset)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+## Introduction
+
+Emotion detection in facial expressions is a fascinating field with numerous applications, including human-computer interaction, sentiment analysis, and mental health monitoring. In this repository, we provide multiple facial emotion detection models, each with its own unique approach to this exciting problem.
+
+## Models
+
+### User Database Model
+
+The User Database Model leverages a user-specific database of facial expressions to detect emotions. It is designed for scenarios where the system can adapt to individual users' facial expressions and emotional cues over time.
+
+### FER2013 Model
+
+The FER2013 Model utilizes the widely used FER2013 dataset, which contains a vast collection of labeled facial expressions. This model is suitable for generic emotion detection tasks and can be applied to various contexts.
+
+## Dataset
+
+We have included the FER2013 dataset in this repository, which you can use to train and evaluate the FER2013 Model. You can find the dataset in the [Dataset](/Dataset) directory.
+
+## Usage
+
+To use any of the provided models or datasets, please refer to the specific README files within their respective directories for detailed instructions on training, evaluation, and integration.
+
+## Contributing
+
+We welcome contributions! If you have ideas for improving existing models or creating new ones, please feel free to open an issue or submit a pull request. Check out our [Contributing Guidelines](CONTRIBUTING.md) for more information.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code and models for your purposes. However, please review the license for full details.
+
+## Acknowledgments
+
+We would like to express our gratitude to the creators of the FER2013 dataset and all the contributors to the field of emotion detection in computer vision. Your work has been instrumental in advancing this fascinating area of research and application.
+

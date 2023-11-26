@@ -9,6 +9,7 @@ Welcome to the Facial Emotion Detection Models repository! Here, we have develop
 - [Introduction](#introduction)
 - [Models](#models)
 - [Dataset](#dataset)
+- [Use of Models](#use-of-models)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -30,7 +31,11 @@ The FER2013 Model utilizes the widely used FER2013 dataset, which contains a vas
 
 ## Dataset
 
-We have included the FER2013 dataset in this repository, which you can use to train and evaluate the FER2013 Model. You can find the dataset in the [Dataset](/Dataset) directory.
+We have included the FER2013 dataset in this repository, which you can use to train and evaluate the FER2013 Model. You can find the dataset in the fer2013_model directory.
+
+## Use of Models
+
+We have used the face emotion detection models in a projects, including a face emotion based music recommender which is available at ``emotion-based-music-recommender-resnet50v2.ipynb``
 
 ## Usage
 
